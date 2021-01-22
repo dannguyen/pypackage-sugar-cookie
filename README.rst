@@ -4,6 +4,9 @@ Cookiecutter pypackage-sugar-cookie
 
 Note: this repo is copied directly from the excellent `audreyfeldroy/cookiecutter-pypackage <https://github.com/audreyfeldroy/cookiecutter-pypackage>`_, which I'm attempting to adapt and learn on my own (2021-01-21)
 
+.. code-block:: sh
+
+  cookiecutter https://github.com/dannguyen/pypackage-sugar-cookie
 
 
 
